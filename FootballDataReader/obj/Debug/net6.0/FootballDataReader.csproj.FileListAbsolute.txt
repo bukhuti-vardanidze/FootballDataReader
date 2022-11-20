@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\bin\Debug\net6.0\FootballDataReader.exe
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\bin\Debug\net6.0\FootballDataReader.deps.json
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\bin\Debug\net6.0\FootballDataReader.runtimeconfig.json
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\bin\Debug\net6.0\FootballDataReader.dll
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\bin\Debug\net6.0\FootballDataReader.pdb
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.AssemblyInfo.cs
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.dll
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\refint\FootballDataReader.dll
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.pdb
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\FootballDataReader.genruntimeconfig.cache
+C:\Users\varda\Desktop\FootballDataReader\FootballDataReader\obj\Debug\net6.0\ref\FootballDataReader.dll
